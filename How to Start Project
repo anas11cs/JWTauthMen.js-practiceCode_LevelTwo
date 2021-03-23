@@ -1,0 +1,6 @@
+//git clone repolink
+//npm init -y (default initialization of node project)
+//npm i express jsonwebtoken dotenv
+//npm i --save-dev nodemon
+// ====
+// Install REST Client extension to make requests from .rest files
